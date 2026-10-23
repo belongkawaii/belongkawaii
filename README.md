@@ -30,8 +30,8 @@ I'm an Information Technology student passionate about building software, solvin
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name]
-A brief description of the problem this project solves and its main features.
+### 1. Shopmee
+An e-commerce platform that lets users buy and sell with each other
 
 - **Tech Stack:** [Technologies used]
 - **Key Features:** [Feature 1, Feature 2, Feature 3]
