@@ -8,7 +8,7 @@ I'm an Information Technology student passionate about building software, solvin
 - 🌱 Learning **[React, PHP, Python, or your current technologies]**
 - 🔭 Working on personal and academic projects
 - 🎯 Goal: Become a professional software developer
-- 📫 Contact: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Contact: [binlun291006@gmail.com](mailto:binlun291006@gmail.com)
 
 ---
 
